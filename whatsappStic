@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "title": "Доступно обновление",
+  "description": "Что нового: исправлены ошибки, добавлены новые функции.",
+  "imageUrl": "",
+  "downloadUrl": "https://drive.google.com/file/d/ВАШ_ID/view",
+  "forceUpdate": true,
+  "showLimit": 0,
+  "color_backround": "#FFFFFF",
+  "color_title": "#111827",
+  "color_description": "#4B5563",
+  "color_accent": "#2563EB"
+}
