@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "title": "Доступно обновление",
-  "description": "Что нового:\n\nДобавлено округление углов стикера 0 - 100% \nУлучшено сглаживание при вырезании фона",
+  "description": "Что нового:\n\nДля whatsapp добавлена возможность отправки голосового сообщения без сохранения номера\n Добавлено округление углов стикера 0 - 100% \nУлучшено сглаживание при вырезании фона",
   "imageUrl": "https://github.com/chechnya360-eng/whatsapp-stic-update/blob/main/logo_1_neon_peel.png?raw=true",
   "downloadUrl": "https://github.com/chechnya360-eng/whatsapp-stic-update/raw/refs/heads/main/Whatsapp_Cтикеры_v1.2.apk",
   "forceUpdate": true,
