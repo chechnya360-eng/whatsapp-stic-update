@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "1.2",
   "title": "Важное обновление",
   "description": "Что нового:\n● Добавил пагинацию. Так как приложение на несколько секунд подвисало кода голосовых и аудио несколько десятков тысяч. Теперь подгружаются по 10 при прокручивании экрана.",
   "imageUrl": "https://github.com/chechnya360-eng/whatsapp-stic-update/blob/main/logo_1_neon_peel.png?raw=true",
