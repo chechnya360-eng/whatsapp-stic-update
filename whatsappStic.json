@@ -1,7 +1,7 @@
 {
-  "version": "1.2",
+  "version": "1.6",
   "title": "Важное обновление",
-  "description": "Что нового:\n● Добавил пагинацию. Так как приложение на несколько секунд подвисало кода голосовых и аудио несколько десятков тысяч. Теперь подгружаются по 10 при прокручивании экрана.",
+  "description": "Что нового:\n● Кнопки «Показать предыдущий месяц» и «Выбрать месяц» для аудио и голосовых: нужные месяцы подгружаются по запросу.\n● Вместо круглого лоадера теперь счётчик файлов в реальном времени: сразу видно, что идёт сканирование.",
   "imageUrl": "https://github.com/chechnya360-eng/whatsapp-stic-update/blob/main/logo_1_neon_peel.png?raw=true",
   "downloadUrl": "https://github.com/chechnya360-eng/whatsapp-stic-update/raw/refs/heads/main/Whatsapp_Cтикеры_v1.6.apk",
   "forceUpdate": true,
